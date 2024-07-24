@@ -3,3 +3,6 @@ backup/
 
 #misc
 .vscode/
+
+#ao
+ao/node_modules
